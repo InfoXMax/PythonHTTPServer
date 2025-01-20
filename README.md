@@ -16,7 +16,7 @@ My Local HTTP Server is a simple and lightweight HTTP file server with a graphic
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/MyLocalHTTPServer.git
+   git clone https://github.com/InfoXMax/PythonHTTPServer.git
    cd MyLocalHTTPServer
    ```
 2. Run the server:
@@ -34,6 +34,8 @@ My Local HTTP Server is a simple and lightweight HTTP file server with a graphic
 
 ## Download Compiled Version
 To download the compiled `.exe` version, visit the [Releases](https://github.com/yourusername/MyLocalHTTPServer/releases) page.
+
+The `.exe` version was compiled using `py2exe`. No additional dependencies are required.
 
 ## License
 This project is licensed under the MIT License.
